@@ -7,11 +7,8 @@
             "email": "khanhbv57@gmail.com"
         }
     ],
-<<<<<<< HEAD
     "version": "1.0",
     "license": "1.0",
-=======
     "version":"1.0",
->>>>>>> 1badacd00403a780dd33aeba4560a8aa2be1e4fe
     "require": {}
 }
