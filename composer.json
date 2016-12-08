@@ -8,5 +8,6 @@
         }
     ],
     "version": "1.0",
+    "license": "1.0",
     "require": {}
 }
