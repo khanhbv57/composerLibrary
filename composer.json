@@ -1,0 +1,11 @@
+{
+    "name": "khanh/composer-library",
+    "type": "project",
+    "authors": [
+        {
+            "name": "khanh",
+            "email": "khanhbv57@gmail.com"
+        }
+    ],
+    "require": {}
+}
