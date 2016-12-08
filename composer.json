@@ -1,15 +1,13 @@
 {
     "name": "khanh/composer-library",
     "type": "project",
-    "minimum-stability": "dev",
+    "license": "mit",
     "authors": [
         {
-            "name": "khanh",
+            "name": "khanhbv57",
             "email": "khanhbv57@gmail.com"
         }
     ],
-    "version": "1.0",
-    "license": "MIT",
-    "prefer-stable": true,
+    "minimum-stability": "dev",
     "require": {}
 }
