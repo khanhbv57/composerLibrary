@@ -1,6 +1,7 @@
 {
     "name": "khanh/composer-library",
     "type": "project",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "khanh",
